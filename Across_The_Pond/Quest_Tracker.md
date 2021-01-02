@@ -12,6 +12,8 @@ Burial mound at Dragon Barrow in the shape of a dragon off the path to the East 
 
 The Blade of Lady Tanamere was MADE to slay dragons.
 
+- Nearby the barrow, we found a group of Eyes of Gruumsh searching for the blade.  It sounds like the blade had something to do with their god.
+
 ## 2. <u>Loggers Camp Delivery</u>
 Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
 
