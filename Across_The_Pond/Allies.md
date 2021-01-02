@@ -65,6 +65,11 @@ Orob died at the Dwarven Excavation at the temple of Abathor (greed god) fightin
 
 # NPC Characters
 
+## <u>Neverwinter</u>
+### Derek - DECEASED
+- Brought us down with him as guards from Neverwinter.  Fell to goblins on the road south.
+- RIP.
+
 ## <u>Phandolin</u>
 ### Adanra Gwinn
  - Servant of goddess Shantaya

@@ -15,6 +15,8 @@ The Blade of Lady Tanamere was MADE to slay dragons.
 ## 2. <u>Loggers Camp Delivery</u>
 Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
 
+Note: There are perishables in this shipment!
+
 ## 3. <u>Dragon Outside Phandolin</u>
 Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
 
