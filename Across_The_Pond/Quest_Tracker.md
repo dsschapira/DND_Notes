@@ -1,4 +1,4 @@
-# <u>Incomplete</u>
+# <u>TODO</u>
 
 ## 1. <u>The Blade of Lady Tanamere</u>
 Lady Tanamere Allagundar - Old hero who lived ages ago, a powerful warrior who lived during past Dragon Ages.  She had a powerful blade, and slew dragons as they rose to power.  Buried ceremoniously with her compatriots.  Burial place was lost to time.
