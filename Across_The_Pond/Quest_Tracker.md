@@ -7,7 +7,7 @@ Lady Tanamere Allagundar - Old hero who lived ages ago, a powerful warrior who l
 Pieces of old are mentioned. Dragon's Dogma is a piece of old.  The blade of lady tanamere is also a piece of old.
 
 
-Burial mound at Dragon Barrow in the shape of a dragon off the path to Neverwinter.
+Burial mound at Dragon Barrow in the shape of a dragon off the path to the East on the way to Neverwinter.
 
 
 The Blade of Lady Tanamere was MADE to slay dragons.
