@@ -66,6 +66,10 @@ Orob died at the Dwarven Excavation at the temple of Abathor (greed god) fightin
 # NPC Characters
 
 ## <u>Neverwinter</u>
+### Jack's Wonderous Emporium
+- Jack runs a shop up in Neverwinter.
+- He may have a job for us in the future with the special "elusive ring" as possible payment.
+
 ### Derek - DECEASED
 - Brought us down with him as guards from Neverwinter.  Fell to goblins on the road south.
 - RIP.
