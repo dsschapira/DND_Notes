@@ -1,6 +1,32 @@
 # <u>TODO</u>
+## <u>Loggers Camp Delivery</u>
+Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
 
-## 1. <u>The Blade of Lady Tanamere</u>
+Note: There are perishables in this shipment!
+
+## <u>Dragon Outside Phandolin</u>
+Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
+
+White dragon.  Young.
+
+Dragon attacked Phandolin.
+
+
+Darren Edermath tried to fight off the dragon, but it froze him then picked him up out of the ice and carried him off.
+
+## <u>Orcs in the Area</u>
+Possibly camped at Ice Spire Peak.
+
+They camped out in the Dwarven Excavation, where Orob fell to them.
+
+We have defeated the orcs at the Dwarven Excavation and learned that more may be to the southwest of Phandolin, where their children prisoners have been taken.
+
+## <u>Return the Half-Orc Child</u>
+We found a half-orc child, Silvus, who had been taken by some Eyes of Gruumsh in preparation to turn him into a new Eye of Gruumsh.  He is from Neverwinter and his parents may provide a reward for his return.
+
+# <u>Completed</u>
+
+## <u>The Blade of Lady Tanamere</u>
 Lady Tanamere Allagundar - Old hero who lived ages ago, a powerful warrior who lived during past Dragon Ages.  She had a powerful blade, and slew dragons as they rose to power.  Buried ceremoniously with her compatriots.  Burial place was lost to time.
 
 
@@ -14,30 +40,9 @@ The Blade of Lady Tanamere was MADE to slay dragons.
 
 - Nearby the barrow, we found a group of Eyes of Gruumsh searching for the blade.  It sounds like the blade had something to do with their god.
 
-## 2. <u>Loggers Camp Delivery</u>
-Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
+- We met Lady Tanamere's skeleton horse who said he would follow the owner of her blade.
 
-Note: There are perishables in this shipment!
-
-## 3. <u>Dragon Outside Phandolin</u>
-Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
-
-White dragon.  Young.
-
-Dragon attacked Phandolin.
-
-
-Darren Edermath tried to fight off the dragon, but it froze him then picked him up out of the ice and carried him off.
-
-## 4. <u>Orcs in the Area</u>
-Possibly camped at Ice Spire Peak.
-
-They camped out in the Dwarven Excavation, where Orob fell to them.
-
-We have defeated the orcs at the Dwarven Excavation and learned that more may be to the southwest of Phandolin, where their children prisoners have been taken.
-
-
-# <u>Completed</u>
+- We defeated the spirit of Lady Tanamere and retrieved the blade.
 
 ## <u>Phandolin's Backup Plan</u>
 Old Dwarven Fortress south of Phandolin called Axelholm.
