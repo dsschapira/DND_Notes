@@ -21,10 +21,50 @@ They camped out in the Dwarven Excavation, where Orob fell to them.
 
 We have defeated the orcs at the Dwarven Excavation and learned that more may be to the southwest of Phandolin, where their children prisoners have been taken.
 
+After returning Silvus, the half-orc child, to Neverwinter we learned that they often take orc children to the south of the Mere of Dead Men.  Somewhere in some mountains.
+
+
+## <u>Phandolin Coup</u>
+We plan to help overthrow Harbin's rule of Phandolin.  He's a bad ruler and should be replaced.  
+
+Linene asked that we talk with her about this after taking care of the dragon.
+
+
+## <u>Weird Dreams</u>
+Jack and his neighbors have been having scary dreams for the last few days.  He thinks they may be magical in nature.  He last saw a dream of himself in the sewers with an angel statue.
+
+We found an angel statue in the sewers nearby.  There was a book in the statue with the following message written in infernal: 
+"All salvation comes through order.  The passage opens at our command."
+
+Above the statue it says:
+"Infernal alphabet repeating"
+
+There were illusioned gems that became coal when removed.  The gems are:
+There are 1 amethys, 13 garnets, 19 sapphires, 15 pieces of jade, 19 citrine, 5 quartz, 21 rubies, and 4 pieces of onyx.
+
+Amethys Citrine Garnet Jade Onyx Quarts Rubies Sapphire
+A C  G  J  O  Q  R   S 
+1 19 13 15 4  5  21  19
+A S  M  O  D  E  U   S
+
+The abdjuration on the statue is similar to the arcane lock spell.
+
+We spoke ASMODEUS and the statue opened.
+
+
+# <u>Completed</u>
+
+## <u>Selling the Blade</u>
+Jack found a buyer for Dragon's Dogma.  They were oddly excited for this purchase.
+
+They offered 5000g, Jack counter offered with the magic ring we saw him with on our way to Neverwinter.
+
+We did not want to lose Jack as a shop so we countered with 20,000g.  The sale is off.
+
 ## <u>Return the Half-Orc Child</u>
 We found a half-orc child, Silvus, who had been taken by some Eyes of Gruumsh in preparation to turn him into a new Eye of Gruumsh.  He is from Neverwinter and his parents may provide a reward for his return.
 
-# <u>Completed</u>
+We returned Silvus and received 80 silver for our trouble.  Silvus also told us that there is an army of orcs where they take young orc children south of the Mere of Deadmen.
 
 ## <u>The Blade of Lady Tanamere</u>
 Lady Tanamere Allagundar - Old hero who lived ages ago, a powerful warrior who lived during past Dragon Ages.  She had a powerful blade, and slew dragons as they rose to power.  Buried ceremoniously with her compatriots.  Burial place was lost to time.
@@ -83,7 +123,7 @@ Lighthouse is watched over by Talos, god of Storms.
 
 I desecrated the alter so Storm god is cleansed. We got all the items from the ships.
 
-## <u>Deadly Lighthouse</u>
+## <u>Magic at Gnomengarde</u>
 Harbin Wester wants magic to help fend off the dragon.  He will buy magic we find in Gnomengard.
 
 
