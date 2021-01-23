@@ -30,6 +30,8 @@ We plan to help overthrow Harbin's rule of Phandolin.  He's a bad ruler and shou
 Linene asked that we talk with her about this after taking care of the dragon.
 
 
+# <u>Completed</u>
+
 ## <u>Weird Dreams</u>
 Jack and his neighbors have been having scary dreams for the last few days.  He thinks they may be magical in nature.  He last saw a dream of himself in the sewers with an angel statue.
 
@@ -51,8 +53,9 @@ The abdjuration on the statue is similar to the arcane lock spell.
 
 We spoke ASMODEUS and the statue opened.
 
+Going through the opening, we found some spined devils and then later a succubus and cambion.  After defeating them we left the sewers.
 
-# <u>Completed</u>
+We recieved our potions and preservative from Jack.
 
 ## <u>Selling the Blade</u>
 Jack found a buyer for Dragon's Dogma.  They were oddly excited for this purchase.

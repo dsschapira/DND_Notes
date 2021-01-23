@@ -31,3 +31,8 @@ Kalimb recovered Dragon's Dogma and has begun to grow more powerful and closer w
 While becoming closer with the dagger he began to be called to some Fiendish realm.  Granted further power by some unknown Hellish diety, he has begun to do her bidding in an effort to gain more power.
 
 NOTE: Gonna go for that Zuko arc. 
+
+# My Patron
+Glasya - A powerful female fiend.  Has asked for me to desecrate the thunger god's throne, give a book from Gnomengarde, and a book from the thunder god's lighthouse.
+
+She lives in a castle in the hells.  The cloud and spires have black and orange wisps.  She seems to have control over succubi.
