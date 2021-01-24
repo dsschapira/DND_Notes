@@ -1,5 +1,6 @@
 # Inns
 1. Beached Leviathon
+    - Fight clubs happen here mid-week
 
 # Shops
 1. Jack's Wonderous Emporium

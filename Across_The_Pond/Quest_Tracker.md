@@ -23,6 +23,12 @@ We have defeated the orcs at the Dwarven Excavation and learned that more may be
 
 After returning Silvus, the half-orc child, to Neverwinter we learned that they often take orc children to the south of the Mere of Dead Men.  Somewhere in some mountains.
 
+## <u>Save Orok</u>
+We need to Save Orob's son Orok from the Orcs.  We know he's been taken south of the mere of dead men.
+
+## <u>Neverwinter Fist Fights</u>
+Every "Wednesday" at the beached leviathon.
+
 
 ## <u>Phandolin Coup</u>
 We plan to help overthrow Harbin's rule of Phandolin.  He's a bad ruler and should be replaced.  

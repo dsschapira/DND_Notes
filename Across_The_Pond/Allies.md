@@ -27,6 +27,7 @@ From the Mercia family, a rich family.  Has a signet ring
    - Crow above a mountain
    - Previously wealthy, but in recent generations, they have lost their luster.
    - Asshole dad, but he's from a different mom.  Has brothers from other mothers.
+   - Celador is a bastard son in his family.
 
 
 Drive:
@@ -69,6 +70,9 @@ Orob died at the Dwarven Excavation at the temple of Abathor (greed god) fightin
 ### Jack's Wonderous Emporium
 - Jack runs a shop up in Neverwinter.
 - He may have a job for us in the future with the special "elusive ring" as possible payment.
+
+### Cal Roverun
+- Bard in Neverwinter who taught us the Gambit of Ord playing card game.
 
 ### Derek - DECEASED
 - Brought us down with him as guards from Neverwinter.  Fell to goblins on the road south.
