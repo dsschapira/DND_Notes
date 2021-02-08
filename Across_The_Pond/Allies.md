@@ -92,6 +92,7 @@ Orob died at the Dwarven Excavation at the temple of Abathor (greed god) fightin
 
 ### Harbin Wester
 - Phandolin Townmaster
+- Hides in his mansion and refuses to come out.
 
 ### Toblen Stonehill
 - Runs the Stonehill Inn

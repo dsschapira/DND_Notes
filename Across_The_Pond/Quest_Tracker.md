@@ -1,8 +1,19 @@
 # <u>TODO</u>
-## <u>Loggers Camp Delivery</u>
+## <u>Logger's Camp Delivery</u>
 Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
 
+Harbin's brother, Tybur, runs the loggers camp.
+
 Note: There are perishables in this shipment!
+
+The loggers have been attacked by Tremor's like creatures.  Harbin's brother has been trapped for 3 days and is the last survivor.  He won't come out until we kill all of the creatures.
+
+We find some references to Talos - a bundle of stick figures with a lightning bolt and bundled around some hair.  These figures were meant to bring ill fortune to anyone nearby.  Some Talos follower cursed this village.
+
+## <u>The Anchorites of Talos</u>
+The Logger's camp was cursed by the Anchorites who passed through a few days/weeks ago.  Unsure if they are really "bad guys".  
+
+NOTE: ASK AT NEXT SESSION ABOUT ANCHORITES OF TALOS
 
 ## <u>Dragon Outside Phandolin</u>
 Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
@@ -34,6 +45,10 @@ Every "Wednesday" at the beached leviathon.
 We plan to help overthrow Harbin's rule of Phandolin.  He's a bad ruler and should be replaced.  
 
 Linene asked that we talk with her about this after taking care of the dragon.
+
+
+## <u>Underdark Entrances</u>
+1. In Neverwinter in the scarred distrcit, there is an entrance to the underdark.
 
 
 # <u>Completed</u>
