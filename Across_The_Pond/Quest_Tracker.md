@@ -1,19 +1,21 @@
 # <u>TODO</u>
-## <u>Logger's Camp Delivery</u>
-Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
-
-Harbin's brother, Tybur, runs the loggers camp.
-
-Note: There are perishables in this shipment!
-
-The loggers have been attacked by Tremor's like creatures.  Harbin's brother has been trapped for 3 days and is the last survivor.  He won't come out until we kill all of the creatures.
-
-We find some references to Talos - a bundle of stick figures with a lightning bolt and bundled around some hair.  These figures were meant to bring ill fortune to anyone nearby.  Some Talos follower cursed this village.
 
 ## <u>The Anchorites of Talos</u>
-The Logger's camp was cursed by the Anchorites who passed through a few days/weeks ago.  Unsure if they are really "bad guys".  
+The Logger's camp was cursed by the Anchorites who passed through a few days/weeks ago.
 
-NOTE: ASK AT NEXT SESSION ABOUT ANCHORITES OF TALOS
+The anchorites of Talos, mostly made up of half-orcs, have been helping the Orcs in the area steal child orcs and half-orcs.  Falcon from the Falcon's Lodge would like us to get rid of the anchorites in the area.
+
+There was sorcerer who used to work there studying the ruins, (NAME UNKNOWN).  He may have notes there about the ruins that would be useful and/or information about his wearabouts or fate.
+
+The Falcon just thinks the Anchorites are a thorn in his side and he would like to be rid of them.
+
+The Anchorites are at The Woodland Manse, about 10 miles East of The Falcon Lodge.
+
+We killed the orcs at the Woodland Manse.
+
+We found a piece of a leather satchel that had a map to an area called the Circle of Thunder.
+
+There was also a set of runes in the ground that said "Falcon's Hunting Lodge".
 
 ## <u>Dragon Outside Phandolin</u>
 Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
@@ -37,6 +39,8 @@ After returning Silvus, the half-orc child, to Neverwinter we learned that they 
 ## <u>Save Orok</u>
 We need to Save Orob's son Orok from the Orcs.  We know he's been taken south of the mere of dead men.
 
+Orok Strife has been moved to Avanamere hold recently from the Woodland Manse when we had stopped by.
+
 ## <u>Neverwinter Fist Fights</u>
 Every "Wednesday" at the beached leviathon.
 
@@ -52,6 +56,19 @@ Linene asked that we talk with her about this after taking care of the dragon.
 
 
 # <u>Completed</u>
+
+## <u>Logger's Camp Delivery</u>
+Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
+
+Harbin's brother, Tybur, runs the loggers camp.
+
+Note: There are perishables in this shipment!
+
+The loggers have been attacked by Tremor's like creatures.  Harbin's brother has been trapped for 3 days and is the last survivor.  He won't come out until we kill all of the creatures.
+
+We find some references to Talos - a bundle of stick figures with a lightning bolt and bundled around some hair.  These figures were meant to bring ill fortune to anyone nearby.  Some Talos follower cursed this village.
+
+Kalimb killed Tybur and Keremy mutilated the corpse.  We burned the village to hide the evidence.
 
 ## <u>Weird Dreams</u>
 Jack and his neighbors have been having scary dreams for the last few days.  He thinks they may be magical in nature.  He last saw a dream of himself in the sewers with an angel statue.
