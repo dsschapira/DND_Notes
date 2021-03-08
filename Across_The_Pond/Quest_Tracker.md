@@ -17,6 +17,10 @@ We found a piece of a leather satchel that had a map to an area called the Circl
 
 There was also a set of runes in the ground that said "Falcon's Hunting Lodge".
 
+We captured an Anchorite of Talos and from the Woodland Manse.  They recognized my blade, and said that by the morning they will have summoned the Thunder Boar. 
+
+Gorthak, the Thunder Boar, is one of Talos's generals.  They plan to take down the Falcon Lodge, then "retake their heritage".
+
 ## <u>Dragon Outside Phandolin</u>
 Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
 
