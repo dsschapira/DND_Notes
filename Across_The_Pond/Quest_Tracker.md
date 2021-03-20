@@ -1,26 +1,5 @@
 # <u>TODO</u>
 
-## <u>The Anchorites of Talos</u>
-The Logger's camp was cursed by the Anchorites who passed through a few days/weeks ago.
-
-The anchorites of Talos, mostly made up of half-orcs, have been helping the Orcs in the area steal child orcs and half-orcs.  Falcon from the Falcon's Lodge would like us to get rid of the anchorites in the area.
-
-There was sorcerer who used to work there studying the ruins, (NAME UNKNOWN).  He may have notes there about the ruins that would be useful and/or information about his wearabouts or fate.
-
-The Falcon just thinks the Anchorites are a thorn in his side and he would like to be rid of them.
-
-The Anchorites are at The Woodland Manse, about 10 miles East of The Falcon Lodge.
-
-We killed the orcs at the Woodland Manse.
-
-We found a piece of a leather satchel that had a map to an area called the Circle of Thunder.
-
-There was also a set of runes in the ground that said "Falcon's Hunting Lodge".
-
-We captured an Anchorite of Talos and from the Woodland Manse.  They recognized my blade, and said that by the morning they will have summoned the Thunder Boar. 
-
-Gorthak, the Thunder Boar, is one of Talos's generals.  They plan to take down the Falcon Lodge, then "retake their heritage".
-
 ## <u>Dragon Outside Phandolin</u>
 Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
 
@@ -60,6 +39,30 @@ Linene asked that we talk with her about this after taking care of the dragon.
 
 
 # <u>Completed</u>
+
+## <u>The Anchorites of Talos</u>
+The Logger's camp was cursed by the Anchorites who passed through a few days/weeks ago.
+
+The anchorites of Talos, mostly made up of half-orcs, have been helping the Orcs in the area steal child orcs and half-orcs.  Falcon from the Falcon's Lodge would like us to get rid of the anchorites in the area.
+
+There was sorcerer who used to work there studying the ruins, (NAME UNKNOWN).  He may have notes there about the ruins that would be useful and/or information about his wearabouts or fate.
+
+The Falcon just thinks the Anchorites are a thorn in his side and he would like to be rid of them.
+
+The Anchorites are at The Woodland Manse, about 10 miles East of The Falcon Lodge.
+
+We killed the orcs at the Woodland Manse.
+
+We found a piece of a leather satchel that had a map to an area called the Circle of Thunder.
+
+There was also a set of runes in the ground that said "Falcon's Hunting Lodge".
+
+We captured an Anchorite of Talos and from the Woodland Manse.  They recognized my blade, and said that by the morning they will have summoned the Thunder Boar. 
+
+Gorthak, the Thunder Boar, is one of Talos's generals.  They plan to take down the Falcon Lodge, then "retake their heritage".
+
+We killed Gorthak, and took out the orc horde attacking the Hunting Lodge.
+
 
 ## <u>Logger's Camp Delivery</u>
 Take a shipment from Barthen's up to the loggers camp east of Neverwinter.
