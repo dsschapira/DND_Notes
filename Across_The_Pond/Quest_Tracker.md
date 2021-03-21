@@ -1,14 +1,7 @@
 # <u>TODO</u>
 
-## <u>Dragon Outside Phandolin</u>
-Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
-
-White dragon.  Young.
-
-Dragon attacked Phandolin.
-
-
-Darren Edermath tried to fight off the dragon, but it froze him then picked him up out of the ice and carried him off.
+# <u>Investigate Ice Spire Hold</u>
+Now that the dragon has been dealt with, we can search the hold for its secrets.
 
 ## <u>Orcs in the Area</u>
 Possibly camped at Ice Spire Peak.
@@ -18,6 +11,9 @@ They camped out in the Dwarven Excavation, where Orob fell to them.
 We have defeated the orcs at the Dwarven Excavation and learned that more may be to the southwest of Phandolin, where their children prisoners have been taken.
 
 After returning Silvus, the half-orc child, to Neverwinter we learned that they often take orc children to the south of the Mere of Dead Men.  Somewhere in some mountains.
+
+## <u>Haunting of Tressandor Manor</u>
+There are ghost stories about the manor.  Possibly the old town-master's home before Phandolin was around.  Ghost stories are pretty general.
 
 ## <u>Save Orok</u>
 We need to Save Orob's son Orok from the Orcs.  We know he's been taken south of the mere of dead men.
@@ -39,6 +35,35 @@ Linene asked that we talk with her about this after taking care of the dragon.
 
 
 # <u>Completed</u>
+
+
+## <u>Dragon Outside Phandolin</u>
+Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 
+
+White dragon.  Young.
+
+Dragon attacked Phandolin.
+
+Darren Edermath tried to fight off the dragon, but it froze him then picked him up out of the ice and carried him off.
+
+We made it to Icespire Peak.  There was a frozen ogre that Angstrom found with a pack next to him.
+
+We made it to Icespire Hold!
+
+We fought off a group of veteran mercenaries trying to plunder the dragon's lair while he was away.  We killed 2 and let 2 run away.  Elder kept trying to kill the last 2 while Sarazy and I tried to stop him.
+
+We killed the dragon in his lair and obtained:
+600 copper
+4000 silver
+1300 gold
+120 platinum
+A spell scroll - unknown spell
+3 potions
+ - some kind of healing potion
+ - a potion of invulnerability
+ - an unknown potion
+1 pearl that has some sort of magic energy
+
 
 ## <u>The Anchorites of Talos</u>
 The Logger's camp was cursed by the Anchorites who passed through a few days/weeks ago.
