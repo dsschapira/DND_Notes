@@ -1,7 +1,15 @@
 # <u>TODO</u>
 
-# <u>Investigate Ice Spire Hold</u>
-Now that the dragon has been dealt with, we can search the hold for its secrets.
+# <u>Tower of Leilon</u>
+There is a tower in Leilon where monsters seem to come out of sometimes to attack the town.  The tower has existed for more years than the town and there may be treasures deep inside.
+
+Creatures tend to show up after adventurers attempt to go into the tower.
+
+All kinds of beasts from all kinds of planes come out from the tower. Faewilds were mentioned.
+
+Someone may have just gone into the tower earlier in the day the morning we woke up in town.  There were 3 of them.
+
+We entered the tower and found a mysterious item.  We pushed a button on it and were teleported to a dungeon.  With no way back, we likely need to fight our way through.
 
 ## <u>Orcs in the Area</u>
 Possibly camped at Ice Spire Peak.
@@ -12,9 +20,6 @@ We have defeated the orcs at the Dwarven Excavation and learned that more may be
 
 After returning Silvus, the half-orc child, to Neverwinter we learned that they often take orc children to the south of the Mere of Dead Men.  Somewhere in some mountains.
 
-## <u>Haunting of Tressandor Manor</u>
-There are ghost stories about the manor.  Possibly the old town-master's home before Phandolin was around.  Ghost stories are pretty general.
-
 ## <u>Save Orok</u>
 We need to Save Orob's son Orok from the Orcs.  We know he's been taken south of the mere of dead men.
 
@@ -24,18 +29,20 @@ Orok Strife has been moved to Avanamere hold recently from the Woodland Manse wh
 Every "Wednesday" at the beached leviathon.
 
 
+## <u>Underdark Entrances</u>
+1. In Neverwinter in the scarred distrcit, there is an entrance to the underdark.
+
+## <u>Haunting of Tressandor Manor</u>
+There are ghost stories about the manor.  Possibly the old town-master's home before Phandolin was around.  Ghost stories are pretty general.
+
+# <u>Completed</u>
+
 ## <u>Phandolin Coup</u>
 We plan to help overthrow Harbin's rule of Phandolin.  He's a bad ruler and should be replaced.  
 
 Linene asked that we talk with her about this after taking care of the dragon.
 
-
-## <u>Underdark Entrances</u>
-1. In Neverwinter in the scarred distrcit, there is an entrance to the underdark.
-
-
-# <u>Completed</u>
-
+We kicked Harbin out fairly uneventfully and redistributed the riches back to the town.
 
 ## <u>Dragon Outside Phandolin</u>
 Has been stirring up other troubles in the area. Orcs pushed down from the mountains may cause conflicts back & forth. 

@@ -16,3 +16,8 @@ Storm god.  Had a shrine at the lighthouse that Kalimb defaced.
 <img width="25%" src="https://static.wikia.nocookie.net/forgottenrealms/images/3/3b/Tymora.jpg/revision/latest/scale-to-width-down/250?cb=20170830143725">
 
 Goddess of Luck.  There is a shrine to her in Phandalin.
+
+# <u>Lathander</u>
+<img width="25%" src="https://static.wikia.nocookie.net/forgottenrealms/images/e/e5/Lathander_p39-1-.jpg/revision/latest/top-crop/width/360/height/360?cb=20091224154952">
+
+Clerics are called Dawn Bringers.
