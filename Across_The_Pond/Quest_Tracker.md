@@ -11,6 +11,8 @@ Someone may have just gone into the tower earlier in the day the morning we woke
 
 We entered the tower and found a mysterious item.  We pushed a button on it and were teleported to a dungeon.  With no way back, we likely need to fight our way through.
 
+We found notes on magical enchanting items and magical transferrence.
+
 ## <u>Orcs in the Area</u>
 Possibly camped at Ice Spire Peak.
 

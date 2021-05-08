@@ -4,3 +4,11 @@ One of the assassin's after Sarazy called my dagger a piece of old.  These piece
 Dragon's Dogma may be a piece of old.
 
 The Blade of Lady Tanamere may also be a piece of old.
+
+# Deck of Many Things
+- The Knight
+- Inky black void
+- Bright shining star on a starscape field
+- Keys
+- Burning Forest with burning beast
+- Shakesperean Skull
