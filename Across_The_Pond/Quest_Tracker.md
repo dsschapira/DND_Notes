@@ -1,5 +1,8 @@
 # <u>TODO</u>
 
+# <u>Stinky Zombie Flower</u>
+While searching for a critter to hex and kill, Kalimb stumbled upon a stinky yellow flower with a horde of zombies around it.  Deciding it was more important to be quiet, he backed away but noted the location.
+
 # <u>Tower of Leilon</u>
 There is a tower in Leilon where monsters seem to come out of sometimes to attack the town.  The tower has existed for more years than the town and there may be treasures deep inside.
 

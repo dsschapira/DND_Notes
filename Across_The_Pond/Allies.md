@@ -66,6 +66,12 @@ Orob died at the Dwarven Excavation at the temple of Abathor (greed god) fightin
 
 # NPC Characters
 
+
+## <u>Mere of Dead Men</u>
+### Tlamani
+- A Juan Ti Paladin we met in the Mere of Dead Men
+- He wants to stop a false god at the Temple Mound of the Serpent Lord
+
 ## <u>Neverwinter</u>
 ### Jack's Wonderous Emporium
 - Jack runs a shop up in Neverwinter.
