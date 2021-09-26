@@ -1,20 +1,7 @@
 # <u>TODO</u>
 
-# <u>Stinky Zombie Flower</u>
-While searching for a critter to hex and kill, Kalimb stumbled upon a stinky yellow flower with a horde of zombies around it.  Deciding it was more important to be quiet, he backed away but noted the location.
-
-# <u>Tower of Leilon</u>
-There is a tower in Leilon where monsters seem to come out of sometimes to attack the town.  The tower has existed for more years than the town and there may be treasures deep inside.
-
-Creatures tend to show up after adventurers attempt to go into the tower.
-
-All kinds of beasts from all kinds of planes come out from the tower. Faewilds were mentioned.
-
-Someone may have just gone into the tower earlier in the day the morning we woke up in town.  There were 3 of them.
-
-We entered the tower and found a mysterious item.  We pushed a button on it and were teleported to a dungeon.  With no way back, we likely need to fight our way through.
-
-We found notes on magical enchanting items and magical transferrence.
+## <u>Locked Vault under Tannamere Hold</u>
+The vault is locked with a riddle: "You cannot enter this room".  The answer was "Mushroom"
 
 ## <u>Orcs in the Area</u>
 Possibly camped at Ice Spire Peak.
@@ -30,6 +17,8 @@ We need to Save Orob's son Orok from the Orcs.  We know he's been taken south of
 
 Orok Strife has been moved to Avanamere hold recently from the Woodland Manse when we had stopped by.
 
+Orok is being held amongs the army on the other side of the Mere of Dead Men.
+
 ## <u>Neverwinter Fist Fights</u>
 Every "Wednesday" at the beached leviathon.
 
@@ -41,6 +30,26 @@ Every "Wednesday" at the beached leviathon.
 There are ghost stories about the manor.  Possibly the old town-master's home before Phandolin was around.  Ghost stories are pretty general.
 
 # <u>Completed</u>
+
+# <u>Tower of Leilon</u>
+There is a tower in Leilon where monsters seem to come out of sometimes to attack the town.  The tower has existed for more years than the town and there may be treasures deep inside.
+
+Creatures tend to show up after adventurers attempt to go into the tower.
+
+All kinds of beasts from all kinds of planes come out from the tower. Faewilds were mentioned.
+
+Someone may have just gone into the tower earlier in the day the morning we woke up in town.  There were 3 of them.
+
+We entered the tower and found a mysterious item.  We pushed a button on it and were teleported to a dungeon.  With no way back, we likely need to fight our way through.
+
+We found notes on magical enchanting items and magical transferrence.
+
+After fighting our way through the dungeon, we found many magical rooms to move through.  Keremy found a cool cloak, but with some hidden secrets.
+
+# <u>Stinky Zombie Flower</u>
+While searching for a critter to hex and kill, Kalimb stumbled upon a stinky yellow flower with a horde of zombies around it.  Deciding it was more important to be quiet, he backed away but noted the location.
+
+We killed a different Zombie Flower - they create zombies and are difficult to kill.  Use fire.
 
 ## <u>Phandolin Coup</u>
 We plan to help overthrow Harbin's rule of Phandolin.  He's a bad ruler and should be replaced.  

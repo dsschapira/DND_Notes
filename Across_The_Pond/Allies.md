@@ -68,6 +68,11 @@ Orob died at the Dwarven Excavation at the temple of Abathor (greed god) fightin
 
 
 ## <u>Mere of Dead Men</u>
+### Kitah
+- She solved a riddle to open the tunnels to leave "Name me and ye shall break me" Silence.
+- In tunnels - she spotted plaques about different things, but did not explore anything because they lost a lot of people along the way.
+- She owns Kitah's Kit & Kaboodle in Waterdeep.
+
 ### Tlamani
 - A Juan Ti Paladin we met in the Mere of Dead Men
 - He wants to stop a false god at the Temple Mound of the Serpent Lord
